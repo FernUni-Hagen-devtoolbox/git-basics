@@ -1,0 +1,81 @@
+{
+  "data": {
+    "layout-restorer:data": {
+      "main": {
+        "dock": {
+          "type": "split-area",
+          "orientation": "horizontal",
+          "sizes": [
+            0.58,
+            0.42
+          ],
+          "children": [
+            {
+              "type": "tab-area",
+              "currentIndex": 0,
+              "widgets": [
+                "notebook:01-git-basics.ipynb"
+              ]
+            },
+            {
+              "type": "tab-area",
+              "currentIndex": 0,
+              "widgets": [
+                "terminal:1"
+              ]
+            }
+          ]
+        },
+        "current": "notebook:01-git-basics.ipynb"
+      },
+      "down": {
+        "size": 0,
+        "widgets": []
+      },
+      "left": {
+        "collapsed": false,
+        "visible": true,
+        "current": "filebrowser",
+        "widgets": [
+          "filebrowser",
+          "running-sessions",
+          "@jupyterlab/toc:plugin",
+          "extensionmanager.main-view"
+        ]
+      },
+      "right": {
+        "collapsed": true,
+        "visible": true,
+        "widgets": [
+          "jp-property-inspector",
+          "debugger-sidebar"
+        ]
+      },
+      "relativeSizes": [
+        0.2,
+        0.8,
+        0
+      ],
+      "top": {
+        "simpleVisibility": true
+      }
+    },
+    "notebook:01-git-basics.ipynb": {
+      "data": {
+        "path": "01-git-basics.ipynb",
+        "factory": "Notebook"
+      }
+    },
+    "terminal:1": {
+      "data": {
+        "name": "1"
+      }
+    },
+    "file-browser-filebrowser:cwd": {
+      "path": ""
+    }
+  },
+  "metadata": {
+    "id": "uebung-01"
+  }
+}

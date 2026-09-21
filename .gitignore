@@ -3,4 +3,6 @@ shell-material/
 moodle-material/
 konzept/
 .jupyter/
+**/.ipynb_checkpoints/
 lesson-content-runtime/
+git-katas/
