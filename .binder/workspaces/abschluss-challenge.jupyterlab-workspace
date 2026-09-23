@@ -33,15 +33,9 @@
         "widgets": []
       },
       "left": {
-        "collapsed": false,
-        "visible": true,
-        "current": "filebrowser",
-        "widgets": [
-          "filebrowser",
-          "running-sessions",
-          "@jupyterlab/toc:plugin",
-          "extensionmanager.main-view"
-        ]
+        "collapsed": true,
+        "visible": false,
+        "widgets": []
       },
       "right": {
         "collapsed": true,
@@ -70,9 +64,6 @@
       "data": {
         "name": "1"
       }
-    },
-    "file-browser-filebrowser:cwd": {
-      "path": ""
     }
   },
   "metadata": {
