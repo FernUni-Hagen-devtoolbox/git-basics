@@ -38,7 +38,7 @@ RUN printf '%s\n' \
         "alias taskflow-collaboration-challenge='bash /home/jovyan/scripts/prepare-taskflow-collaboration-challenge.sh >/dev/null 2>&1'" \
         "alias taskflow-review='bash /home/jovyan/scripts/review-taskflow-collaboration.sh'" \
         "alias taskflow-final='bash /home/jovyan/scripts/prepare-taskflow-final.sh >/dev/null 2>&1'" \
-        "alias taskflow-version='bash /home/jovyan/scripts/add-taskflow-version.sh >/dev/null 2>&1'" \
+        "alias taskflow-version='bash /home/jovyan/scripts/add-taskflow-version.sh'" \
         "alias taskflow-simulate-final='bash /home/jovyan/scripts/simulate-taskflow-final.sh >/dev/null 2>&1'" \
         "alias taskflow-check-final='python3 /home/jovyan/scripts/check-taskflow-final.py'" \
         >> /home/jovyan/.bashrc
